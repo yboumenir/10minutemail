@@ -1,3 +1,5 @@
 pytest
 tox
 python-10minutemail
+bs4
+selenium
